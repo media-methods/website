@@ -1,0 +1,34 @@
+---
+title: "More Publications"
+subtitle: "Read more about our papers and articles"
+page-layout: full
+date-format: "YYYY"
+#categories: [news, job]
+#image: "featured.jpeg"
+#css: /custom.css
+listing: 
+- id: more-publications
+  sort: "date desc"
+  type: table
+  fields: [image, title, subtitle, date, description, fulltext]
+  field-display-names: 
+      subtitle: "Journal"
+      date: "Year"
+      description: "Summary"
+      fulltext: "Fulltext"
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 30px
+  categories: true
+  sort-ui: [title, subtitle, date]
+  filter-ui: true
+  contents: 
+    - publications.yml
+---
+
+:::{#more-publications}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

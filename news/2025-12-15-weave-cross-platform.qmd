@@ -1,0 +1,44 @@
+---
+title: "New grant to study the diversity of digital news flows"
+image: "/files/images/funders/weave_logo.png"
+
+#categories: [research]
+date: "2025-12-15"
+title-block-banner: false
+#page-layout: full
+#from: markdown+emoji
+link-external-newwindow: true
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: copis
+#  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center  
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - ../../collaborators/karin-boczek.yml
+    - ../../people/valerie-hase.yml
+---
+
+## PI Team
+
+:::{#copis}
+:::
+
+## About the grant
+Karin Boczek and Valerie Hase are awarded 398 703 EUR for studying cross-platform news, resulting from the Weave funding line and the DFG/FWF as national funders.
+
+As digital infrastructures that enable and shape communication, platforms have disrupted journalism. They influence how journalists produce and how citizens engage with news. In Germany, citizens continue to trust traditional journalistic brands but often use them via intra-media platforms such as YouTube, Facebook, or Instagram. The proliferation of platforms owned by Google or Meta has raised concerns about how big tech companies and high-choice media environments challenge democracies. Elon Musk's acquisition of Twitter/X underlines the importance of this discussion. Normative understandings of journalism include its mission to facilitate shared understandings of relevant societal information for public opinion formation while providing maximum topic and viewpoint diversity. However, whether platforms threaten democratic pillars has yet to be agreed upon. As debates about fragmentation into filter bubbles exemplify, we need more nuance in understanding news across different platforms within a platform ecosystem and the role of dynamic feedback loops. This project addresses this gap by advancing theories, methods, and empirical studies on the diversity of digital news flows.
+
+The project focuses on digital news flows as the prevalence of news and how citizens are exposed to, consume, and experience news across digital platforms. Theoretically, we draw on complexity science and network theory to advance concepts of digital news flows, which we define through actors (e.g., news outlets, audiences) and content as nodes and their interactions via dynamic feedback loops as ties. Methodologically, we advance platform-agnostic methods and mixed-method approaches to blend computational social science (CSS), quantitative, and qualitative methods. Empirically, we focus on the German media system, which includes a range of news brands, such as public service and commercial outlets. While news flows take center stage as our core concept of interest, we study these related to diversity by focusing on supply, exposure, consumption, and experienced diversity in digital news flows.
+					
+The work program includes six work packages (WPs) for two PhD students. In addition to advancing textual and visual cross-platform methods (WP1–2), the project combines computational and manual content analysis with network analysis and longitudinal modeling to map how trusted German news brands share news across platforms, including feedback loops (WP3–4). Using agent-based testing and walk-through interviews for data donations, the project also analyzes how German citizens are exposed to, consume, and experience news across platforms and the role of feedback loops (WP5–6). More broadly, we contribute to theory-building, methods, and empirical findings on dynamic communication processes across platforms.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

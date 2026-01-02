@@ -1,0 +1,27 @@
+---
+title: "About The Digital Media and Methods Lab"
+subtitle: "Understanding digital platform ecosystems with computational methods"
+page-layout: full
+---
+::::: grid
+::: {.g-col-12 .g-col-md-7}
+We are the Digital Media and Methods Lab located at the University of Klagenfurt. As part of the Department of Media and Communications, our research centers on the role of digital platforms, AI, and Big Tech in shaping individual and collective opinion formation.
+
+As a lab, we advance theoretical and empirical research on journalism, political communication, and media effects in digital environments using computational social science methods. This includes digital trace data, text-as-data approaches, and Large Language Models (LLMs).
+
+We embrace open science practices and building methodological capacities for the scientific community, with a focus on interdisciplinary perspectives. We welcome researchers who want to explore the relationship between technology, media, and society.
+
+Contact: [Prof. Dr. Valerie Hase](mailto:valerie.hase@aau.at){.email}
+:::
+
+```{=html}
+<!--
+:::{style="font-size: 1rem;"}
+:::
+-->
+```
+
+::: {.g-col-12 .g-col-md-5}
+![Image from Unsplash](/files/images/symbols/network-small.jpg)
+:::
+:::::

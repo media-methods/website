@@ -1,0 +1,31 @@
+---
+title: "Research"
+subtitle: "What we do"
+toc: false
+listing:
+- id: research
+  contents: 
+    - research/digital-news
+    - research/methods
+    - research/digital-technology
+    - research/crisis
+  sort: false
+  type: grid
+  grid-columns: 2
+  image-height: 200px
+  fields: [image, title, description]
+  page-size: 25
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+
+
+page-layout: full
+page-navigation: true
+title-block-banner: false
+---
+
+## Research
+:::{#research}
+:::

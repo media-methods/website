@@ -1,0 +1,131 @@
+---
+#title: "Digital Media and Methods Lab"
+css: 
+  - custom.css
+
+page-layout: custom
+#navbar: false
+
+listing:
+- id: research
+  contents: 
+    - research/digital-news
+    - research/methods
+    - research/digital-technology
+    - research/crisis
+  
+  sort: false
+  type: grid
+  grid-columns: 4
+  max-items: 4
+  image-height: 150px
+  fields: [image, title]
+  page-size: 4
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+
+- id: news
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, date]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+  max-items: 3
+  page-size: 3
+  contents: 
+    - news
+
+- id: publications
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, date]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+  max-items: 3
+  page-size: 3
+  contents: publications.yml 
+include-in-header: 
+  - file: files/includes/_mswebmaster.js
+---
+
+::: {.background-frame .alt-background}
+::: {.content-block}
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+
+<p align="center" style="font-size:30px; font-weight:bold;">Welcome to the Digital Media and Methods Lab</p>
+<p align="center" style="font-size:24px;">Understanding digital platform ecosystems with computational methods</p>
+
+::: {.button}
+[Learn more](about.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-5}
+[![](/files/images/symbols/network-small.jpg)](about.qmd){fig-align="center"}
+
+:::
+
+:::
+
+:::
+:::
+
+
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:36px; font-weight:bold;">Our research</p>
+
+:::{#research}
+:::
+
+::: {.button}
+[More about our research](/research.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+:::
+
+:::
+
+:::
+:::
+
+::: {.background-frame .alt-background}
+::: {.content-block}
+
+<p align="center" style="font-size:36px; font-weight:bold;">News from the Lab</p>
+
+:::{#news}
+:::
+
+:::
+:::
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:36px; font-weight:bold;">Read our work</p>
+
+:::{#publications}
+:::
+
+
+::: {.button}
+[Read our latest work](more-publications.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::
+
+

@@ -1,0 +1,53 @@
+    - path: https://doi.org/10.31235/osf.io/xr45y_v1
+      image: /files/images/journals/osf.png
+      title: "Reflecting on social bias: challenges and opportunities for computational social science"
+      subtitle: "*Preprint, under review*"
+      description: "Computational methods are characterized by and can increase social bias in research."
+      date: "2025-11-27"
+      fulltext: "[Preprint](https://doi.org/10.31235/osf.io/xr45y_v1)"
+      categories: [methods] 
+
+    - path: https://doi.org/10.1080/19312458.2025.2575468
+      image: /files/images/journals/cmm.png
+      title: "Critical, but constructive: defining, detecting, and addressing bias in Computational Social Science"
+      subtitle: "*Communication Methods and Measures*"
+      description: "We need to take a closer look at bias in and through computational methods."
+      date: "2025-10-29"
+      fulltext: "[Article](https://doi.org/10.1080/19312458.2025.2575468)"
+      categories: [methods] 
+
+    - path: https://doi.org/10.1080/21670811.2025.2462539
+      image: /files/images/journals/digital-journalism.png
+      title: "Epistemologies of digital news production: power and technological adaptation in knowledge production"
+      subtitle: "*Digital Journalism*"
+      description: "In this Special Issue, we rethink epistemological changes in journalism through the lens of power."
+      date: "2025-02-25"
+      fulltext: "[Article](https://doi.org/10.1080/21670811.2025.2462539)"
+      categories: [digital-news, digital-technology] 
+
+    - path: https://doi.org/10.1080/21670811.2025.2462539
+      image: /files/images/journals/new-media-and-society.png
+      title: "A drop in the ocean? Emerging adults’ experiences and understanding of targeted political advertising on social media"
+      subtitle: "*New Media & Society*"
+      description: "Young social media users sense risks but poorly recognize political microtargeting."
+      date: "2025-01-06"
+      fulltext: "[Article](https://doi.org/10.1177/14614448241306455)"
+      categories: [political-comm, digital-technology] 
+
+    - path: https://doi.org/10.1177/20563051241290113
+      image: /files/images/journals/social-media.png
+      title: "Biased social media debates about terrorism? a content analysis of journalistic coverage of and audience reactions to terrorist attacks on YouTube"
+      subtitle: "*Social Media + Society*"
+      description: "News about and audience reactions to terrorism are subject to bias."
+      date: "2024-10-24"
+      fulltext: "[Article](https://doi.org/10.1177/20563051241290113)"
+      categories: [digital-news, crisis] 
+
+    - path: https://doi.org/10.1177/08944393231193731
+      image: /files/images/journals/social-science-computer.png
+      title: "The influence of political fit, issue fit, and targeted political advertising disclosures on persuasion knowledge, party evaluation, and chilling effects"
+      subtitle: "*Social Science Computer Review*"
+      description: "Disclosure about political microtargeting can have chilling effects on citizens."
+      date: "2023-09-12"
+      fulltext: "[Article](https://doi.org/10.1177/08944393231193731)"
+      categories: [political-comm, digital-technology]

@@ -1,0 +1,37 @@
+
+    - path: https://www.fwf.ac.at/en/research-radar/10.55776/PIN4507925
+      image: /files/images/funders/weave_logo.png
+      title: "Understanding the diversity of digital news flows"
+      author: Karin Boczek, Valerie Hase
+      subtitle: "Weave Program"
+      description: "To understand how digital platforms and big tech change news, we study the diversity of news across platforms."
+      started: "2026"
+      ended: "2029"
+      funding: "399,000 EUR"
+      categories: [digital-news, methods] 
+
+
+    - path: https://data-donation-science.de/
+      image: /files/images/funders/dfg_logo.png
+      title: "Integrating data donations in survey infrastructure"
+      author: Valerie Hase, Florian Keusch, Frauke Kreuter, Mark Trappmann
+      subtitle: "DFG"
+      description: "To improve access to digital trace data, we advance methods for data donation studies."
+      started: "2024"
+      ended: "2027"
+      funding: "601,000 EUR"
+      categories: [methods] 
+
+    - path: https://www.medienanstalt-nrw.de/forschung/fyi.html
+      image: /files/images/funders/lfm_logo.png
+      title: "Forschungsmonitor"
+      author: Valerie Hase
+      subtitle: "Media Authority of North Rhine-Westphalia"
+      description: "The Forschungsmonitor discusses research on current societal challenges."
+      started: "2023"
+      ended: "2026"
+      funding: "71,000 EUR"
+      categories: [digital-news, digital-technology] 
+
+
+

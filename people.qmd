@@ -1,0 +1,73 @@
+---
+title: "Who are we?"
+image: /files/images/we-need-you.png
+page-layout: full
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: lab-member
+  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 4
+  image-height: 200px
+  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: 
+#    - labmembers.yml
+    - /people/valerie-hase.yml
+    - /people/melanie-hirsch.yml
+
+#- id: lab-alumni
+#  sort: "lastname asc"
+#  type: table
+#  fields: [image, title, subtitle, started, ended]
+#  grid-item-align: center  
+#  grid-columns: 4
+#  image-height: 25px
+#  field-display-names: 
+#      title: "Name"
+#      subtitle: "Role/Affiliation"
+#      started: "Started"
+#      ended: "Ended"
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+#  contents: 
+#    - /people/valerie.hase.yml
+
+page-navigation: false
+title-block-banner: false
+toc: false
+
+format:
+  html:
+    link-external-newwindow: true
+---
+
+## Team
+
+:::{#lab-member}
+:::
+
+<!--
+## Alumni
+
+:::{#lab-alumni}
+:::
+
+## Collaborators
+
+We are fortunate to have collaborated with many researchers and practitioners. Please visit their websites to learn more about their amazing work.
+
+:::{#lab-collaborator}
+:::
+
+
+## Advisors
+
+:::{#lab-advisor}
+:::
+
+-->

@@ -1,0 +1,59 @@
+---
+title: "Digital Technology"
+description: "Understanding how individuals use digital technology - and their effects"
+image: "featured.jpg"
+#css: /custom.css
+listing: 
+- id: featured-publications
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 2
+  image-height: 200px
+  max-items: 4
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: 
+    - ../../publications.yml
+  include: 
+    categories: "digital-technology"
+
+- id: featured-projects
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 2
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:  
+    - ../../projects.yml
+  include: 
+    categories: "digital-technology"
+---
+
+![](featured.jpg)
+
+
+## Overview
+In our lab, we want to understand how citizens use digital technologies (e.g., social media, generative AI, etc.) for information, entertainment, or social interaction. We also study how, in turn,  technologies and big tech companies developing them influence such behavior - and corresponding effects on individual behavior online and offline.
+
+## Featured publications
+
+:::{#featured-publications}
+:::
+
+<p align="right">[More Publications »](/more-publications.qmd#category=digital-technology)</p>
+
+## Featured projects
+
+:::{#featured-projects}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

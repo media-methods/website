@@ -1,0 +1,40 @@
+---
+title: "In the media: how algorithms and AI change election campaigns"
+image: "/files/images/media/fyi-21.png"
+
+#categories: [research]
+date: "2025-12-10"
+title-block-banner: false
+#page-layout: full
+#from: markdown+emoji
+link-external-newwindow: true
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: copis
+#  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center  
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - ../../people/valerie-hase.yml
+    - ../../collaborators/philipp-knöpfle.yml
+---
+
+## Research team
+
+:::{#copis}
+:::
+
+## About the publication
+In the newest research monitor, a science communication publication together with the Media Authority of North Rhine-Westphalia, Philipp Knöpfle and Valerie Hase discuss how digital technologies, such as microtargeting, change election campaigns. Algorithms and generative AI transform political communication by enabling automated, highly personalized messaging at scale, with microtargeting tailoring content to specific demographic traits, interests, or political attitudes.However, this creates a dilemma, as personalized political advertising can be manipulative and undermine democratic processes when it is opaque, asymmetric, and poorly regulated.
+
+Read more [here](https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._21.pdf).
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

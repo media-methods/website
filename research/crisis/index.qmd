@@ -1,0 +1,53 @@
+---
+title: "Societal Crises"
+description: "Individual and societal coping with crises"
+image: "featured.jpg"
+#css: /custom.css
+listing: 
+- id: featured-publications
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 2
+  image-height: 200px
+  max-items: 4
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: 
+    - ../../publications.yml
+  include: 
+    categories: "crisis"
+
+- id: featured-projects
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 2
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:  
+    - ../../projects.yml
+  include: 
+    categories: "crisis"
+---
+
+![](featured.jpg)
+
+## Overview
+Modern societies are subject to many different crises - from climate change to pandemics or terrorist attacks. In our lab, we are interested in how news media communicate about such crises and how both individuals and society at large use digital technologies to cope with crises.
+
+## Featured publications
+
+:::{#featured-publications}
+:::
+
+<p align="right">[More Publications »](/more-publications.qmd#category=crisis)</p>
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,33 @@
+---
+title: "Publications"
+page-layout: full
+#categories: [news, job]
+#image: "featured.jpeg"
+#css: /custom.css
+listing: 
+- id: publications
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  field-display-names: 
+    subtitle: "Journal"
+    date: "Year"
+  grid-item-align: left
+  max-items: 12
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+  sort-ui: [title, subtitle, date]
+  filter-ui: true
+  contents: 
+    - publications.yml
+---
+
+:::{#publications}
+:::
+
+<p align="right">[More Publications »](/more-publications.qmd)</p>
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,41 @@
+---
+title: "Method resources"
+subtitle: "Open courses, data, and other resources"
+page-layout: full
+listing: 
+
+- id: teaching
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 325px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://valeriehase.github.io/comptext-data-donation/
+      image: /files/images/symbols/social-media.jpg
+      title: "Data Donation Studies for Collecting Digital Trace Data"
+      description: "This workshop provides an introduction into collecting digital trace data using data donations."
+
+    - path: https://valeriehase.github.io/textasdata-ms/
+      image: /files/images/symbols/code.jpg
+      title: "Text-as-Data"
+      description: "This workshop provides an introduction into automated text analysis with R."
+      
+    - path: https://valeriehase-studying-online-news-css.share.connect.posit.cloud/
+      image: /files/images/symbols/coding.jpg
+      title: "Web scraping with R"
+      description: "This undergraduate course provides an introduction into R and web scraping."
+---
+
+## Open Courses
+
+:::{#teaching}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Digital Media and Methods Lab"
+  image: "/files/images/network.jpg"
+  description: "We are the Digital Media and Methods Lab located at the University of Klagenfurt. Our research centers on the role of digital platforms, AI, and Big Tech in shaping individual and collective opinion formation. We advance theoretical and empirical research on journalism, political communication, and media effects in digital environments using computational social science methods. We embrace open science practices and building methodological capacities for the scientific community, with a focus on interdisciplinary perspectives."
+ 
+  navbar:
+    background: "#344e41"
+    foreground: "#FFFFFF"
+    left:
+      - text: About
+        href: about.qmd
+      - text: People
+        href: people.qmd
+      - text: Research
+        href: research.qmd
+      - text: Projects
+        href: projects.qmd 
+      - text: Publications
+        href: publications.qmd
+      - text: Outreach
+        href: news.qmd
+      - text: Method Resources
+        href: resources.qmd    
+    right:
+      - icon: github
+        href: http://media-methods.github.io
+  page-navigation: true
+  page-footer: 
+    left: "[Digital Media and Methods Lab](http://media-methods-lab.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    right:  
+      - icon: github
+        href: https://github.com/media-methods
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/media-methods/media-methods.github.io
+#  repo-actions: [edit, issue, source]
+  open-graph: true
+  twitter-card: true 
+#  card-style: summary      
+  site-url: "http://media-methods-lab.com"
+  google-analytics:
+    tracking-id: "G-TEC97F8RGK"
+    anonymize-ip: true 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true 
