@@ -122,7 +122,7 @@ include-in-header:
 
 
 ::: {.button}
-[Read our latest work](more-publications.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+[Read our latest publications](more-publications.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::
 
 :::
