@@ -27,7 +27,7 @@ website:
         href: resources.qmd    
     right:
       - icon: github
-        href: http://media-methods.github.io
+        href: https://github.com/media-methods
   page-navigation: true
   page-footer: 
     left: "[Digital Media and Methods Lab](http://media-methods-lab.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
@@ -38,7 +38,7 @@ website:
     location: navbar
     type: textbox
   reader-mode: true
-  repo-url: https://github.com/media-methods/media-methods.github.io
+  repo-url: https://github.com/media-methods/website
 #  repo-actions: [edit, issue, source]
   open-graph: true
   twitter-card: true 
