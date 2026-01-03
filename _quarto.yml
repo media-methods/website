@@ -31,7 +31,7 @@ website:
   page-navigation: true
   page-footer: 
     left: "[Digital Media and Methods Lab](http://media-methods-lab.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "[Imprint](imprint.qmd)"    
+    center: "[Imprint](imprint.md)"    
     right:  
       - icon: github
         href: https://github.com/media-methods
