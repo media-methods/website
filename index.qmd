@@ -1,5 +1,5 @@
 ---
-#title: "Digital Media and Methods Lab"
+#title: "Digital Media and Methods Lab - Test"
 css: 
   - custom.css
 
