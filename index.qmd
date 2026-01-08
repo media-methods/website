@@ -1,5 +1,5 @@
 ---
-#title: "Digital Media and Methods Lab - Test"
+#title: "Digital Media and Methods Lab"
 css: 
   - custom.css
 
@@ -62,7 +62,7 @@ include-in-header:
 
 ::: {.g-col-12 .g-col-md-7}
 
-<p align="center" style="font-size:30px; font-weight:bold;">Welcome to the Digital Media and Methods Lab</p>
+<p align="center" style="font-size:30px; font-weight:bold;">Welcome to our Digital Media and Methods Lab</p>
 <p align="center" style="font-size:24px;">Understanding digital platform ecosystems with computational methods</p>
 
 ::: {.button}
