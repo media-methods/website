@@ -18,6 +18,7 @@ listing:  #an example of listing external links
 #    - labmembers.yml
     - /people/valerie-hase.yml
     - /people/melanie-hirsch.yml
+    - /people/valeria-krause.yml
 
 #- id: lab-alumni
 #  sort: "lastname asc"
