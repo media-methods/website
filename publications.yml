@@ -7,6 +7,15 @@
       fulltext: "[Preprint](https://doi.org/10.31235/osf.io/xr45y_v1)"
       categories: [methods] 
 
+    - path: https://doi.org/10.4324/9781003568766
+      image: /files/images/journals/social-media-journalism.png
+      title: "Advancing Cross- and Multi-Platform Research: Understanding Digital News Flows via Computational Methods"
+      subtitle: "*Research Methods for Social Media Journalism*"
+      description: "We identify major barriers to multi- and cross-platform research and discusses computational ways to alleviate them."
+      date: "2025-11-03"
+      fulltext: "[Article](https://doi.org/10.4324/9781003568766)"
+      categories: [digital-news, methods]
+      
     - path: https://doi.org/10.1080/19312458.2025.2575468
       image: /files/images/journals/cmm.png
       title: "Critical, but constructive: defining, detecting, and addressing bias in Computational Social Science"
