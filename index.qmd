@@ -94,9 +94,6 @@ include-in-header:
 ::: {.button}
 [More about our research](/research.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::
-:::
-
-:::
 
 :::
 :::
