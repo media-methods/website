@@ -57,17 +57,13 @@ include-in-header:
 ::: {.background-frame .alt-background}
 ::: {.content-block}
 
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-7}
 
-<p align="center" style="font-size:30px; font-weight:bold;">
-Welcome to the Digital Media and Methods Lab
-</p>
-
-<p align="center" style="font-size:24px;">
-Understanding digital platform ecosystems with computational methods
-</p>
+<p align="center" style="font-size:30px; font-weight:bold;">Welcome to the Digital Media and Methods Lab</p>
+<p align="center" style="font-size:24px;">Understanding digital platform ecosystems with computational methods</p>
 
 ::: {.button}
 [Learn more](about.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
@@ -77,6 +73,7 @@ Understanding digital platform ecosystems with computational methods
 
 ::: {.g-col-12 .g-col-md-5}
 [![](/files/images/symbols/network-small.jpg)](about.qmd){fig-align="center"}
+
 :::
 
 :::
@@ -89,37 +86,40 @@ Understanding digital platform ecosystems with computational methods
 ::: {.background-frame}
 ::: {.content-block}
 
-<p id="research" align="center" style="font-size:36px; font-weight:bold;">
-Our research
-</p>
+<p align="center" style="font-size:36px; font-weight:bold;">Our research</p>
+
+:::{#research}
+:::
 
 ::: {.button}
 [More about our research](/research.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::
+:::
+
+:::
 
 :::
 :::
-
-
 
 ::: {.background-frame .alt-background}
 ::: {.content-block}
 
-<p id="news" align="center" style="font-size:36px; font-weight:bold;">
-News from the Lab
-</p>
+<p align="center" style="font-size:36px; font-weight:bold;">News from the Lab</p>
+
+:::{#news}
+:::
 
 :::
 :::
-
-
 
 ::: {.background-frame}
 ::: {.content-block}
 
-<p id="publications" align="center" style="font-size:36px; font-weight:bold;">
-Read our work
-</p>
+<p align="center" style="font-size:36px; font-weight:bold;">Read our work</p>
+
+:::{#publications}
+:::
+
 
 ::: {.button}
 [Read our latest publications](more-publications.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
@@ -127,3 +127,5 @@ Read our work
 
 :::
 :::
+
+
