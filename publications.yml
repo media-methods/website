@@ -52,24 +52,6 @@
       fulltext: "[Article](https://doi.org/10.1177/20563051241290113)"
       categories: [digital-news, crisis] 
 
-    - path: https://doi.org/10.14763/2024.3.1793
-      image: /files/images/journals/internet-policy-review.png
-      title: "Fulfilling Data Access Obligations: How Could (and Should) Platforms Facilitate Data Donation Studies?"
-      subtitle: "*Internet Policy Review*"
-      description: "Platform non-compliance with EU data access rights severely limits data donation research and calls for reforms."
-      date: "2024-09-16"
-      fulltext: "[Article](https://doi.org/10.14763/2024.3.1793)"
-      categories: [methods]
-
-     - path: https://doi.org/10.1080/19312458.2023.2293713
-      image: /files/images/journals/cmm.png
-      title: "Misclassification in Automated Content Analysis Causes Bias in Regression. Can We Fix It? Yes We Can!"
-      subtitle: "*Communication Methods and Measures*"
-      description: "Automated classifiers can introduce misclassification bias, but with proper validation and error-correction methods, their measurements remain reliable."
-      date: "2024-01-16"
-      fulltext: "[Article](https://doi.org/10.1080/19312458.2023.2293713)"
-      categories: [methods]
-
     - path: https://doi.org/10.1177/08944393231193731
       image: /files/images/journals/social-science-computer.png
       title: "The influence of political fit, issue fit, and targeted political advertising disclosures on persuasion knowledge, party evaluation, and chilling effects"
@@ -78,39 +60,3 @@
       date: "2023-09-12"
       fulltext: "[Article](https://doi.org/10.1177/08944393231193731)"
       categories: [political-comm, digital-technology]
-
-    - path: https://doi.org/10.1080/00913367.2023.2175081
-      image: /files/images/journals/journal-advertising.png
-      title: "Beneficial or Harmful? How (Mis)Fit of Targeted Political Advertising on Social Media Shapes Voter Perceptions"
-      subtitle: "*Journal of Advertising*"
-      description: "Perceived fit of targeted political advertising lowers perceived manipulation and increases perceived democratic benefits."
-      date: "2023-03-23"
-      fulltext: "[Article](https://doi.org/10.1080/00913367.2023.2175081)"
-      categories: [political-comm, digital-technology]
-
-    - path: https://doi.org/10.1080/21670811.2022.2128389
-      image: /files/images/journals/digital-journalism.png
-      title: "Adapting to Affordances and Audiences? A Cross-Platform, Multi-Modal Analysis of the Platformization of News on Facebook, Instagram, TikTok, and Twitter"
-      subtitle: "*Digital Journalism*"
-      description: "German news outlets adapt content to social media technically but not communicatively."
-      date: "2022-10-20"
-      fulltext: "[Article](https://doi.org/10.1080/21670811.2022.2128389)"
-      categories: [digital-news, methods]
-
-    - path: https://doi.org/10.1016/j.gloenvcha.2021.102353
-      image: /files/images/journals/global-change.png
-      title: "Climate change in news media across the globe: An automated analysis of issue attention and themes in climate change coverage in 10 countries (2006–2018)"
-      subtitle: "*Global Environmental Change*"
-      description: "News coverage of climate change varies globally, with the Global North reporting more frequently and the Global South emphasizing societal impacts."
-      date: "2021-09-06"
-      fulltext: "[Article](https://doi.org/10.1016/j.gloenvcha.2021.102353)"
-      categories: [crisis]
-        
-    - path: https://doi.org/10.1177/14648849211017003
-      image: /files/images/journals/sage-journals.png
-      title: "What is terrorism (according to the news)? How the German press selectively labels political violence as “terrorism”"
-      subtitle: "*Sage Journals*"
-      description: "This study analyses how characteristics of attacks and their perpetrators influence whether news media portray incidents as terrorism."
-      date: "2021-05-13"
-      fulltext: "[Article](https://doi.org/10.1177/14648849211017003)"
-      categories: [crisis]
