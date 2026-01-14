@@ -52,6 +52,15 @@
       fulltext: "[Article](https://doi.org/10.1177/20563051241290113)"
       categories: [digital-news, crisis] 
 
+    - path: https://doi.org/10.14763/2024.3.1793
+      image: /files/images/journals/internet-policy-review.png
+      title: "Fulfilling Data Access Obligations: How Could (and Should) Platforms Facilitate Data Donation Studies?"
+      subtitle: "*Internet Policy Review*"
+      description: "Platform non-compliance with EU data access rights severely limits data donation research and calls for reforms."
+      date: "2024-09-16"
+      fulltext: "[Article](https://doi.org/10.14763/2024.3.1793)"
+      categories: [methods]
+
     - path: https://doi.org/10.1177/08944393231193731
       image: /files/images/journals/social-science-computer.png
       title: "The influence of political fit, issue fit, and targeted political advertising disclosures on persuasion knowledge, party evaluation, and chilling effects"
