@@ -5,7 +5,7 @@
       description: "Computational methods are characterized by and can increase social bias in research."
       date: "2025-11-27"
       fulltext: "[Preprint](https://doi.org/10.31235/osf.io/xr45y_v1)"
-      categories: [methods] 
+      categories: [methods]
 
     - path: https://doi.org/10.4324/9781003568766
       image: /files/images/journals/social-media-journalism.png
@@ -23,7 +23,7 @@
       description: "We need to take a closer look at bias in and through computational methods."
       date: "2025-10-29"
       fulltext: "[Article](https://doi.org/10.1080/19312458.2025.2575468)"
-      categories: [methods] 
+      categories: [methods]
 
     - path: https://doi.org/10.1080/21670811.2025.2462539
       image: /files/images/journals/digital-journalism.png
@@ -32,7 +32,7 @@
       description: "In this Special Issue, we rethink epistemological changes in journalism through the lens of power."
       date: "2025-02-25"
       fulltext: "[Article](https://doi.org/10.1080/21670811.2025.2462539)"
-      categories: [digital-news, digital-technology] 
+      categories: [digital-news, digital-technology]
 
     - path: https://doi.org/10.1080/21670811.2025.2462539
       image: /files/images/journals/new-media-and-society.png
@@ -41,7 +41,7 @@
       description: "Young social media users sense risks but poorly recognize political microtargeting."
       date: "2025-01-06"
       fulltext: "[Article](https://doi.org/10.1177/14614448241306455)"
-      categories: [political-comm, digital-technology] 
+      categories: [political-comm, digital-technology]
 
     - path: https://doi.org/10.1177/20563051241290113
       image: /files/images/journals/social-media.png
@@ -50,7 +50,7 @@
       description: "News about and audience reactions to terrorism are subject to bias."
       date: "2024-10-24"
       fulltext: "[Article](https://doi.org/10.1177/20563051241290113)"
-      categories: [digital-news, crisis] 
+      categories: [digital-news, crisis]
 
     - path: https://doi.org/10.14763/2024.3.1793
       image: /files/images/journals/internet-policy-review.png
@@ -97,7 +97,7 @@
       fulltext: "[Article](https://doi.org/10.1080/21670811.2022.2128389)"
       categories: [digital-news, methods]
 
-    - path: path: https://doi.org/10.1016/j.gloenvcha.2021.102353
+    - path: https://doi.org/10.1016/j.gloenvcha.2021.102353
       image: /files/images/journals/global-change.png
       title: "Climate change in news media across the globe: An automated analysis of issue attention and themes in climate change coverage in 10 countries (2006–2018)"
       subtitle: "*Global Environmental Change*"
