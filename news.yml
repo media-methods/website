@@ -23,7 +23,13 @@
       author:
         - Research Monitor
       description: "In this research monitor, we summarize the effects of social media on well-being, the design mechanisms that drive their use and discuss strategies for healthier engagement."
-      date: "2025-10-20"
+      date: "2025-10"
 
-
-
+    - path: https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._19_.pdf
+      image: /files/images/media/fyi-19.png
+      title: "Are Facebook, X and Co. taking over the political discourse?"
+      subtitle: "Research Monitor"
+      author:
+        - Research Monitor
+      description: "Big Tech's control over platforms actively shapes and influences political discourse, challenging democratic opinion formation."
+      date: "2025-07"
