@@ -5,7 +5,7 @@
       author: 
         - Research Monitor 
       description: "In this research monitor, we discuss how micotargeting effects election campaigns."
-      date: "2025-10-14"
+      date: "2025-10"
 
     - path: https://open.spotify.com/episode/6IfdYuzicBtopFbdpGvQMx?si=1b59ff826328479b&nd=1&dlsi=bf23b71f2cbb4269
       image: /files/images/media/spotify-2025.png
@@ -18,7 +18,7 @@
 
     - path: https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._20.pdf
       image: /files/images/media/fyi-20.png
-      title: "The attraction of scoial media"
+      title: "Virtual Temptations: The attraction of scoial media"
       subtitle: "Research Monitor"
       author:
         - Research Monitor
@@ -27,9 +27,36 @@
 
     - path: https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._19_.pdf
       image: /files/images/media/fyi-19.png
-      title: "Are Facebook, X and Co. taking over the political discourse?"
+      title: "Big Tech leads the way: Are Facebook, X and Co. taking over the political discourse?"
       subtitle: "Research Monitor"
       author:
         - Research Monitor
       description: "Big Tech's control over platforms actively shapes and influences political discourse, challenging democratic opinion formation."
       date: "2025-07"
+
+    - path: https://www.abendzeitung-muenchen.de/muenchen/bayerns-blinder-fleck-oez-theaterstueck-offene-wunde-enthuellt-versaeumnisse-bei-rechtsterror-art-1052193
+      image: /files/images/media/az-25.png
+      title: "Right-wing extremist violence in Munich"
+      subtitle: "Münchener Abendzeitung"
+      author:
+        - Alexander Spöri
+      description: "A new play premiering at Munich's Volkstheater re-examines a 2016 attack at the Olympia shopping center, understanding it as part of right-wing extremist violence in Germany."
+      date: "2025-04-24"
+
+    - path: https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._18.pdf
+      image: /files/images/media/fyi-18.png
+      title: "Disinformation on the internet: A real threat or just scaremongering?"
+      subtitle: "Research Monitor"
+      author:
+        - Research Monitor
+      description: "Online disinformation is a serious but often overestimated threat that requires evidence-based, multifaceted countermeasures rather than alarmism."
+      date: "2025-03"
+
+    - path: https://www.nature.com/articles/s41558-024-02241-6
+      image: /files/images/media/ncc-25.png
+      title: "Climate injustice through unequal news?"
+      subtitle: "Nature Climate Change"
+      author:
+        - Nature Climate Change
+      description: "High-quality climate reporting requires resources that are scarce in the Global South. New research findings reveal further linguistic and regional inequalities."
+      date: "2025-01-28"
