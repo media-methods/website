@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Digital Media and Methods Lab"
-  image: "/files/images/dm2.jpg"
+  image: "/files/images/dm2.jpeg"
   description: "We are the Digital Media and Methods Lab located at the University of Klagenfurt. Our research centers on the role of digital platforms, AI, and Big Tech in shaping individual and collective opinion formation. We advance theoretical and empirical research on journalism, political communication, and media effects in digital environments using computational social science methods. We embrace open science practices and building methodological capacities for the scientific community, with a focus on interdisciplinary perspectives."
  
   navbar:
