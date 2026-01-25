@@ -1,7 +1,7 @@
 ---
 title: "Societal Crises"
 description: "Individual and societal coping with crises"
-image: "featured.jpg"
+image: "featured.jpeg"
 #css: /custom.css
 listing: 
 - id: featured-publications

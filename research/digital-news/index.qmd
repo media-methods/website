@@ -2,7 +2,7 @@
 title: "Digital News"
 description: "How platform ecosystems change news supply and news exposure"
 #categories: [news, job]
-image: "featured.jpg"
+image: "featured.jpeg"
 #css: /custom.css
 listing: 
 - id: featured-publications

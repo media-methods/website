@@ -1,7 +1,7 @@
 ---
 title: "Digital Technology"
 description: "Understanding how individuals use digital technology - and their effects"
-image: "featured.jpg"
+image: "featured.jpeg"
 #css: /custom.css
 listing: 
 - id: featured-publications

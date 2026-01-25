@@ -2,7 +2,7 @@
 title: "Digital Methods"
 description: "Using computational methods to study social phenomena"
 #categories: [news, job]
-image: "featured.jpg"
+image: "featured.jpeg"
 #css: /custom.css
 listing: 
 - id: featured-publications
