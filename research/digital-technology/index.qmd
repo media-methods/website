@@ -36,7 +36,7 @@ listing:
     categories: "digital-technology"
 ---
 
-![](technology.jpeg)
+![](featured.jpeg)
 
 
 ## Overview
