@@ -37,7 +37,7 @@ listing:
     categories: "methods"
 ---
 
-![](featured.jpg)
+![](methods.jpeg)
 
 ## Overview
 Our lab focuses on quantitative approaches (e.g., content analysis, surveys, longitudinal modelling) and computational social science (e.g., automated content analysis, digital traces). However, we often combine and triangulate these with qualitative methods (e.g., interviews). As a lab, we embrace open science practices and building methodological capacities for the scientific community, with a focus on interdisciplinary perspectives. 

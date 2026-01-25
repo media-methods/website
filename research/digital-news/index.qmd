@@ -37,7 +37,7 @@ listing:
     categories: "digital-news"
 ---
 
-![](featured.jpg)
+![](news.jpeg)
 
 ## Overview
 Our lab focuses on how digital platform ecosystems (e.g., apps, social media, algorithms) and big tech companies change news. This includes cross-platform journalism, news use on different digital platforms, and effects on how citizens stay informed.

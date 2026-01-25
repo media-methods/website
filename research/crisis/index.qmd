@@ -36,7 +36,7 @@ listing:
     categories: "crisis"
 ---
 
-![](featured.jpg)
+![](crisis.jpeg)
 
 ## Overview
 Modern societies are subject to many different crises - from climate change to pandemics or terrorist attacks. In our lab, we are interested in how news media communicate about such crises and how both individuals and society at large use digital technologies to cope with crises.
