@@ -22,6 +22,6 @@ Contact: [Prof. Dr. Valerie Hase](mailto:valerie.hase@aau.at){.email}
 ```
 
 ::: {.g-col-12 .g-col-md-5}
-![Image from Unsplash](/files/images/symbols/dm2.jpeg)
+![AI generated image](/files/images/symbols/dm2.jpeg)
 :::
 :::::
