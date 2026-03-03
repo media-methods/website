@@ -54,77 +54,75 @@ include-in-header:
   - file: files/includes/_mswebmaster.js
 ---
 
-:::::::: {.background-frame .alt-background}
-::::::: content-block
-:::::: grid
-:::: {.g-col-12 .g-col-md-7}
-<p align="center" style="font-size:30px; font-weight:bold;">
+::: {.background-frame .alt-background}
+::: {.content-block}
 
-Welcome to the Digital Media and Methods Lab
 
-</p>
+::: {.grid}
 
-<p align="center" style="font-size:24px;">
+::: {.g-col-12 .g-col-md-7}
 
-Understanding digital platform ecosystems with computational methods
+<p align="center" style="font-size:30px; font-weight:bold;">Welcome to the Digital Media and Methods Lab</p>
+<p align="center" style="font-size:24px;">Understanding digital platform ecosystems with computational methods</p>
 
-</p>
-
-::: button
+::: {.button}
 [Learn more](about.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
 :::
-::::
+
+:::
 
 ::: {.g-col-12 .g-col-md-5}
-[![](/files/images/symbols/dm2.jpeg)](about.qmd)
-:::
-::::::
-:::::::
-::::::::
+[![](/files/images/symbols/dm2.jpeg)](about.qmd){fig-align="center"}
 
-:::::: background-frame
-::::: content-block
-<p align="center" style="font-size:36px; font-weight:bold;">
-
-Our research
-
-</p>
-
-::: {#research}
 :::
 
-::: button
+:::
+
+:::
+:::
+
+
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:36px; font-weight:bold;">Our research</p>
+
+:::{#research}
+:::
+
+::: {.button}
 [More about our research](/research.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::
-:::::
-::::::
 
-::::: {.background-frame .alt-background}
-:::: content-block
-<p align="center" style="font-size:36px; font-weight:bold;">
-
-News from the Lab
-
-</p>
-
-::: {#news}
 :::
-::::
-:::::
-
-:::::: background-frame
-::::: content-block
-<p align="center" style="font-size:36px; font-weight:bold;">
-
-Read our work
-
-</p>
-
-::: {#publications}
 :::
 
-::: button
+::: {.background-frame .alt-background}
+::: {.content-block}
+
+<p align="center" style="font-size:36px; font-weight:bold;">News from the Lab</p>
+
+:::{#news}
+:::
+
+:::
+:::
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:36px; font-weight:bold;">Read our work</p>
+
+:::{#publications}
+:::
+
+
+::: {.button}
 [Read our latest publications](more-publications.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::
-:::::
-::::::
+
+:::
+:::
+
+

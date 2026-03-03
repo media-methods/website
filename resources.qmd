@@ -4,7 +4,23 @@ subtitle: "Open courses, data, and other resources"
 page-layout: full
 listing: 
 
-- id: teaching
+- id: BA courses
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description]
+  grid-item-align: left
+  grid-columns: 1
+  image-height: 325px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://github.com/valeriehase/rezfo-data-donation
+      image: /files/images/symbols/coding.png
+      title: "Digital Methods I - Programming with R for Social Scientists"
+      description: "This workshop provides an introduction into empirical social science research with R."
+
+- id: open courses
   sort: "date desc"
   type: grid
   fields: [image, title, subtitle, description]
@@ -15,7 +31,7 @@ listing:
 #  sort-ui: true
 #  filter-ui: true
   contents:
-    - path: https://valeriehase.github.io/comptext-data-donation/
+    - path: https://github.com/valeriehase/rezfo-data-donation
       image: /files/images/symbols/social-media.jpg
       title: "Data Donation Studies for Collecting Digital Trace Data"
       description: "This workshop provides an introduction into collecting digital trace data using data donations."
@@ -31,9 +47,14 @@ listing:
       description: "This undergraduate course provides an introduction into R and web scraping."
 ---
 
+## BA courses
+
+:::{#BA courses}
+:::
+
 ## Open Courses
 
-:::{#teaching}
+:::{#open courses}
 :::
 
 <!--Include social share buttons-->
