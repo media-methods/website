@@ -55,74 +55,76 @@ include-in-header:
 ---
 
 ::: {.background-frame .alt-background}
-::: {.content-block}
-
-
-::: {.grid}
-
+::: content-block
+::: grid
 ::: {.g-col-12 .g-col-md-7}
+<p align="center" style="font-size:30px; font-weight:bold;">
 
-<p align="center" style="font-size:30px; font-weight:bold;">Welcome to the Digital Media and Methods Lab</p>
-<p align="center" style="font-size:24px;">Understanding digital platform ecosystems with computational methods</p>
+Welcome to the Digital Media and Methods Lab!
 
-::: {.button}
+</p>
+
+<p align="center" style="font-size:24px;">
+
+Understanding digital platform ecosystems with computational methods
+
+</p>
+
+::: button
 [Learn more](about.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
 :::
-
 :::
 
 ::: {.g-col-12 .g-col-md-5}
-[![](/files/images/symbols/dm2.jpeg)](about.qmd){fig-align="center"}
-
+[![](/files/images/symbols/dm2.jpeg)](about.qmd)
 :::
-
 :::
-
 :::
 :::
 
+::: background-frame
+::: content-block
+<p align="center" style="font-size:36px; font-weight:bold;">
 
+Our research
 
-::: {.background-frame}
-::: {.content-block}
+</p>
 
-<p align="center" style="font-size:36px; font-weight:bold;">Our research</p>
-
-:::{#research}
+::: {#research}
 :::
 
-::: {.button}
+::: button
 [More about our research](/research.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::
-
 :::
 :::
 
 ::: {.background-frame .alt-background}
-::: {.content-block}
+::: content-block
+<p align="center" style="font-size:36px; font-weight:bold;">
 
-<p align="center" style="font-size:36px; font-weight:bold;">News from the Lab</p>
+News from the Lab
 
-:::{#news}
+</p>
+
+::: {#news}
+:::
+:::
 :::
 
+::: background-frame
+::: content-block
+<p align="center" style="font-size:36px; font-weight:bold;">
+
+Read our work
+
+</p>
+
+::: {#publications}
 :::
-:::
 
-::: {.background-frame}
-::: {.content-block}
-
-<p align="center" style="font-size:36px; font-weight:bold;">Read our work</p>
-
-:::{#publications}
-:::
-
-
-::: {.button}
+::: button
 [Read our latest publications](more-publications.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::
-
 :::
 :::
-
-
