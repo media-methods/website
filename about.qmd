@@ -6,7 +6,7 @@ page-layout: full
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-7}
-We are the Digital Media and Methods Lab at the University of Klagenfurt. As part of the Department of Media and Communications, our research centers on the role of digital platforms, AI, and Big Tech in shaping individual and collective opinion formation.
+We are the Digital Media and Methods Lab located at the University of Klagenfurt. As part of the Department of Media and Communications, our research centers on the role of digital platforms, AI, and Big Tech in shaping individual and collective opinion formation.
 
 As a lab, we advance theoretical and empirical research on journalism, political communication, and media effects in digital environments using computational social science methods. This includes digital trace data, text-as-data approaches, and Large Language Models (LLMs).
 
