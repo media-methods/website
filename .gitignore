@@ -1,44 +1,26 @@
-# Git
-.git
-.gitattributes
-.github
+# Quarto
+.quarto/
+_extensions/
 
-#rendered site
+# Rendered site
 docs/
 
-# Quarto
-.quarto
-/.quarto/
+# R
+*.Rhistory
+*.Rapp.history
+*.RData
 
-# Extensions and backups
-_extensions
-/_extensions/
-/_backup/
-
-#R Temporal Files
+# macOS
 .DS_Store
-/.DS_Store/
-~$*.Rhistory*
-~$*.DS_Store*
-~$*.Rproj.user*
-~$*.RData*
-.Rapp.history
 
-
-# Office Temporal Files
+# Office temporary files
+~$*
 *.tmp
-# Word temporary
-~$*.doc*
-# Word Auto Backup File
-Backup of *.doc*
-# Excel temporary
-~$*.xls*
-# Excel Backup File
 *.xlk
-# PowerPoint temporary
-~$*.ppt*
-# Visio autosave temporary files
 *.~vsd*
 
+# Word backups
+Backup of *.doc*
+
+# Quarto notebooks
 **/*.quarto_ipynb
-research/.DS_Store
