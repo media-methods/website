@@ -2,34 +2,29 @@
 title: "Method resources"
 subtitle: "Open courses, data, and other resources"
 page-layout: full
+
 listing: 
 
-- id: BA courses
+- id: ba-courses
   sort: "date desc"
   type: grid
   fields: [image, title, subtitle, description]
   grid-item-align: left
   grid-columns: 1
   image-height: 325px
-#  categories: true
-#  sort-ui: true
-#  filter-ui: true
   contents:
-    - path: https://github.com/valeriehase/rezfo-data-donation
+    - path: https://media-methods.github.io/programming-with-r/
       image: /files/images/symbols/coding.png
       title: "Digital Methods I - Programming with R for Social Scientists"
-      description: "This workshop provides an introduction into empirical social science research with R."
+      description: "This undergraduate course provides an introduction into empirical social science research with R."
 
-- id: open courses
+- id: open-courses
   sort: "date desc"
   type: grid
   fields: [image, title, subtitle, description]
   grid-item-align: left
   grid-columns: 3
   image-height: 325px
-#  categories: true
-#  sort-ui: true
-#  filter-ui: true
   contents:
     - path: https://github.com/valeriehase/rezfo-data-donation
       image: /files/images/symbols/social-media.jpg
@@ -49,12 +44,12 @@ listing:
 
 ## BA courses
 
-:::{#BA courses}
+:::{#ba-courses}
 :::
 
 ## Open Courses
 
-:::{#open courses}
+:::{#open-courses}
 :::
 
 <!--Include social share buttons-->
