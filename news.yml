@@ -1,3 +1,21 @@
+    - path: https://landschaftdeswissens.at/matinee-2026/
+      image: /files/images/media/LDW_logo.png
+      title: "On the value of democracy"
+      subtitle: "Matinee"
+      author: 
+        -  ToChange
+      description: "In this Matinee, Valerie Hase discusses the role of Big Tech in radicalization."
+      date: "2026-03-01"
+          
+    - path: https://on.orf.at/video/14314616/streitkultur-probleme-der-retter-in-der-not
+      image: /files/images/media/orf_on_logo.png
+      title: "Retter in der Not"
+      subtitle: "TV Show"
+      author: 
+        - Culture of debate  
+      description: "In this TV program Streitkultur, Valerie Hase discusses the role of social media in risky behavior"
+      date: "2026-03-09"
+      
     - path: https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._21.pdf
       image: /files/images/media/fyi-21.png
       title: "How algorithms and AI change election campaigns"

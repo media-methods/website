@@ -24,3 +24,4 @@ Backup of *.doc*
 
 # Quarto notebooks
 **/*.quarto_ipynb
+/.quarto/
