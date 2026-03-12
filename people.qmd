@@ -21,7 +21,8 @@ listing:  #an example of listing external links
     - /people/valeria-krause.yml
     - /people/artem-povarov.yml
     - /people/patricia-ploch.yml
-
+    - /people/melanie-kern.yml
+    
 #- id: lab-alumni
 #  sort: "lastname asc"
 #  type: table
@@ -51,9 +52,10 @@ format:
 
 ## Team
 
-:::{#lab-member}
+::: {#lab-member}
 :::
 
+```{=html}
 <!--
 ## Alumni
 
@@ -74,3 +76,4 @@ We are fortunate to have collaborated with many researchers and practitioners. P
 :::
 
 -->
+```
