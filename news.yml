@@ -1,5 +1,5 @@
     - path: https://landschaftdeswissens.at/matinee-2026/
-      image: /files/images/media/LDW_logo.png
+      image: /files/images/media/LDW_logo.webp
       title: "On the value of democracy"
       subtitle: "Matinee"
       author: 
@@ -8,7 +8,7 @@
       date: "2026-03-01"
           
     - path: https://on.orf.at/video/14314616/streitkultur-probleme-der-retter-in-der-not
-      image: /files/images/media/orf_on_logo.png
+      image: /files/images/media/orf_on_logo.webp
       title: "Retter in der Not"
       subtitle: "TV Show"
       author: 
@@ -17,7 +17,7 @@
       date: "2026-03-09"
       
     - path: https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._21.pdf
-      image: /files/images/media/fyi-21.png
+      image: /files/images/media/fyi-21.webp
       title: "How algorithms and AI change election campaigns"
       subtitle: "Research Monitor"
       author: 
@@ -26,7 +26,7 @@
       date: "2025-10"
 
     - path: https://open.spotify.com/episode/6IfdYuzicBtopFbdpGvQMx?si=1b59ff826328479b&nd=1&dlsi=bf23b71f2cbb4269
-      image: /files/images/media/spotify-2025.png
+      image: /files/images/media/spotify-2025.webp
       title: "How can we use dictionaries for opinion mining?"
       subtitle: "CCS podcast"
       author: 
@@ -35,7 +35,7 @@
       date: "2025-10-14"
 
     - path: https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._20.pdf
-      image: /files/images/media/fyi-20.png
+      image: /files/images/media/fyi-20.webp
       title: "Virtual Temptations: The attraction of scoial media"
       subtitle: "Research Monitor"
       author:
@@ -44,7 +44,7 @@
       date: "2025-10"
 
     - path: https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._19_.pdf
-      image: /files/images/media/fyi-19.png
+      image: /files/images/media/fyi-19.webp
       title: "Big Tech leads the way: Are Facebook, X and Co. taking over the political discourse?"
       subtitle: "Research Monitor"
       author:
@@ -53,7 +53,7 @@
       date: "2025-07"
 
     - path: https://www.abendzeitung-muenchen.de/muenchen/bayerns-blinder-fleck-oez-theaterstueck-offene-wunde-enthuellt-versaeumnisse-bei-rechtsterror-art-1052193
-      image: /files/images/media/az-25.png
+      image: /files/images/media/az-25.webp
       title: "Right-wing extremist violence in Munich"
       subtitle: "Münchener Abendzeitung"
       author:
@@ -62,7 +62,7 @@
       date: "2025-04-24"
 
     - path: https://www.medienanstalt-nrw.de/fileadmin/user_upload/Forschung/Newsletter_Informationsintermediaere_Vol._18.pdf
-      image: /files/images/media/fyi-18.png
+      image: /files/images/media/fyi-18.webp
       title: "Disinformation on the internet: A real threat or just scaremongering?"
       subtitle: "Research Monitor"
       author:
@@ -71,7 +71,7 @@
       date: "2025-03"
 
     - path: https://www.nature.com/articles/s41558-024-02241-6
-      image: /files/images/media/ncc-25.png
+      image: /files/images/media/ncc-25.webp
       title: "Climate injustice through unequal news?"
       subtitle: "Nature Climate Change"
       author:
