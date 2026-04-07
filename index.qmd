@@ -58,16 +58,12 @@ include-in-header:
 ::::::: content-block
 :::::: grid
 :::: {.g-col-12 .g-col-md-7}
-<p align="center" style="font-size:30px; font-weight:bold;">
-
+<p align="center" style="font-size:30px; font-weight:700 !important;">
 Welcome to the Digital Media and Methods Lab
-
 </p>
 
-<p align="center" style="font-size:24px;">
-
+<p align="center" style="font-size:24px; font-weight:700 !important;">
 Understanding digital platform ecosystems with computational methods
-
 </p>
 
 ::: button
@@ -84,11 +80,11 @@ Understanding digital platform ecosystems with computational methods
 
 :::::: background-frame
 ::::: content-block
-<p align="center" style="font-size:36px; font-weight:bold;">
+<h2 style="text-align:center; font-size:36px;">
 
 Our research
 
-</p>
+</h2>
 
 ::: {#research}
 :::
@@ -101,11 +97,11 @@ Our research
 
 ::::: {.background-frame .alt-background}
 :::: content-block
-<p align="center" style="font-size:36px; font-weight:bold;">
+<h2 style="text-align:center; font-size:36px;">
 
 News from the Lab
 
-</p>
+</h2>
 
 ::: {#news}
 :::
@@ -114,11 +110,11 @@ News from the Lab
 
 :::::: background-frame
 ::::: content-block
-<p align="center" style="font-size:36px; font-weight:bold;">
+<h2 style="text-align:center; font-size:36px;">
 
 Read our work
 
-</p>
+</h2>
 
 ::: {#publications}
 :::
