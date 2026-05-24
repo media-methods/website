@@ -26,7 +26,7 @@ listing:
   grid-columns: 3
   image-height: 325px
   contents:
-    - path: https://github.com/valeriehase/rezfo-data-donation
+    - path: https://valeriehase.github.io/rezfo-data-donation/
       image: /files/images/symbols/social-media.webp
       title: "Data Donation Studies for Collecting Digital Trace Data"
       description: "This workshop provides an introduction into collecting digital trace data using data donations."
