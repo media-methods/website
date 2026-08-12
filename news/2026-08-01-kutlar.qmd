@@ -1,0 +1,31 @@
+---
+title: "Luisa Kutlar joins the Lab"
+image: "/files/images/people/luisa-kutlar.jpg"
+#categories: [research]
+date: "2026-08-01"
+title-block-banner: false
+#page-layout: full
+#from: markdown+emoji
+link-external-newwindow: true
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: copis
+#  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center  
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - ../../people/luisa-kutlar.yml
+---
+## New Lab Member
+:::{#copis}
+:::
+## About the grant
+As of August 1st, Luisa Kutlar has joined the lab as part of the WEAVE grant. Funded through the Weave line by the DFG and FWF (€398,703), the project studies the diversity of cross-platform news flows in the German media system. Luisa will cooperate with Prof. Valerie Hase, Ass.-Prof. Karin Boczek, and Lilith Blöbaum at KU Eichstätt-Ingolstadt.
+<!--Include social share buttons-->
+{{< include /files/includes/_socialshare.qmd >}}
