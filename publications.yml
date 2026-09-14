@@ -3,11 +3,11 @@
       title: "Big Data, Big Bias? A Systematic Review of User-Centric Computational Methods for Collecting Digital Trace Data and Error Correction Methods"
       subtitle: "*Preprint*"
       description: "A systematic review of user-centric methods, bias, and correction strategies in the social sciences"
-      date: "2026-09-14"
+      date: "2024-09-14"
       fulltext: "[Preprint](https://media-methods-lab.com/files/preprints/Preprint_TraceReview.pdf)"
       categories: [methods]
  
-   - path: https://doi.org/10.31235/osf.io/xr45y_v1
+    - path: https://doi.org/10.31235/osf.io/xr45y_v1
       image: /files/images/journals/osf.png
       title: "Reflecting on social bias: challenges and opportunities for computational social science"
       subtitle: "*Preprint, under review*"
