@@ -19,7 +19,7 @@ listing:  #an example of listing external links
     - /people/valerie-hase.yml
     - /people/melanie-hirsch.yml
     - /people/luisa-kutlar.yml
-    - /people/valeria-krause.yml
+    - /people/amanda-angler.yml
     - /people/artem-povarov.yml
     - /people/patricia-ploch.yml
     - /people/melanie-kern.yml
