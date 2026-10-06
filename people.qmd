@@ -23,8 +23,9 @@ listing:  #an example of listing external links
     - /people/amanda-angler.yml
     - /people/artem-povarov.yml
     - /people/patricia-ploch.yml
-    - /people/melanie-kern.yml
     - /people/sina-thäsler-kordonouri.yml
+   # - /people/melanie-kern.yml
+    
     
 #- id: lab-alumni
 #  sort: "lastname asc"
