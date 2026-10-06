@@ -1,0 +1,31 @@
+---
+title: "Sina Thäsler-Kordonouri joins the Lab"
+image: "/files/images/people/sina-thäsler-kordonouri.jpg"
+#categories: [research]
+date: "2026-10-01"
+title-block-banner: false
+#page-layout: full
+#from: markdown+emoji
+link-external-newwindow: true
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: copis
+#  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center  
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - ../../people/sina-thäsler-kordonouri.yml
+---
+## New Lab Member
+:::{#copis}
+:::
+## About the grant
+As of October 1st, Dr. Sina Thäsler-Kordonouri has joined the lab. After completing her PhD at LMU Munich, Sina will focus on topics like digital communication, journalism studies, and AI at the Digital Media and Methods Lab. She will also be part of the SoWi Methods Hub at the Faculty of Social Sciences. Welcome!
+<!--Include social share buttons-->
+{{< include /files/includes/_socialshare.qmd >}}
