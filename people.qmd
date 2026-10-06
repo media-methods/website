@@ -21,6 +21,7 @@ listing:  #an example of listing external links
     - /people/melanie-hirsch.yml
     - /people/luisa-kutlar.yml
     - /people/amanda-angler.yml
+    - /people/melanie-kern.yml
     - /people/artem-povarov.yml
     - /people/patricia-ploch.yml
     - /people/sina-thäsler-kordonouri.yml

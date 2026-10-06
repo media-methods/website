@@ -1,0 +1,39 @@
+---
+title: "Publication: News in short video feeds"
+image: "/files/images/journals/lfm.png"
+
+#categories: [research]
+date: "2026-10-05"
+title-block-banner: false
+#page-layout: full
+#from: markdown+emoji
+link-external-newwindow: true
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: copis
+#  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center  
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - ../../people/valerie-hase.yml
+---
+
+## Research team
+
+:::{#copis}
+:::
+
+## About the publication
+In a new study for the Bavarian Regulatory Authority for New Media (BLM) and the Media Authority of North Rhine-Westphalia, Valerie Hase and Tobias Füchslin examine whether a quota for journalistic content in short-video feeds would hurt user satisfaction. In an experiment with more than 1,100 short-video users, participants saw a feed in which the share of news content was randomly set at 0, 10, 20, or 30 percent. The results show that more information does not reduce satisfaction. With just 10 percent news content, participants already rated their feed as more informative and more topically diverse. 
+
+Read more [here](https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2026/2026/oktober/nutzer-wollen-mehr-informationsvielfalt-im-feed.html).
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
