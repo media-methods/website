@@ -1,6 +1,8 @@
     - path: https://valerie-hase.com/
+      role-order: 1
       image: /files/images/people/valerie-hase.webp
       title: "Valerie Hase"
       lastname: "Hase"
       subtitle: "Professor"
+      
 

@@ -5,13 +5,14 @@ page-layout: full
 listing:  #an example of listing external links
 #  template: item-default-external.ejs
 - id: lab-member
-  sort: "lastname asc"
+  sort: "role-order asc, lastname asc"
   type: grid
   fields: [image, title, subtitle]
   grid-item-align: center
   grid-columns: 4
   image-height: 200px
   categories: true
+  sort-ui: true
 #  sort-ui: true
 #  filter-ui: true
   contents: 
@@ -23,6 +24,7 @@ listing:  #an example of listing external links
     - /people/artem-povarov.yml
     - /people/patricia-ploch.yml
     - /people/melanie-kern.yml
+    - /people/sina-thäsler-kordonouri.yml
     
 #- id: lab-alumni
 #  sort: "lastname asc"

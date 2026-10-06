@@ -1,5 +1,7 @@
     - image: /files/images/people/amanda-angler.png
+      role-order: 4
       title: "Amanda Angler"
       lastname: "Angler"
       subtitle: "Student Assistant"
       categories: [Student Assistant]
+      

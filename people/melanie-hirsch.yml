@@ -4,3 +4,4 @@
       lastname: "Hirsch"
       subtitle: "Senior Lecturer"
       categories: [Postdoc] 
+      role-order: 2

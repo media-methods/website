@@ -1,3 +1,12 @@
+    - path: https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2026/2026/oktober/nutzer-wollen-mehr-informationsvielfalt-im-feed.html
+      image: /files/images/media/fyi-22.webp
+      title: "Users want more information diversity in the feed"
+      subtitle: "Publication"
+      author: 
+        -  ToChange
+      description: "New study examines the impact of news content in short-form video feeds"
+      date: "2026-10-05"
+       
     - path: https://landschaftdeswissens.at/matinee-2026/
       image: /files/images/media/LDW_logo.webp
       title: "On the value of democracy"
