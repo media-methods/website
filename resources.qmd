@@ -31,7 +31,7 @@ listing:
       title: "Data Donation Studies for Collecting Digital Trace Data"
       description: "This workshop provides an introduction into collecting digital trace data using data donations."
 
-    - path: https://valeriehase.github.io/textasdata-ms/
+    - path: https://media-methods.github.io/text-as-data/
       image: /files/images/symbols/code.webp
       title: "Text-as-Data"
       description: "This workshop provides an introduction into automated text analysis with R."
